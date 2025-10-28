@@ -1,3 +1,9 @@
+Notice:
+kingler-hexapod is open-source, but it depends on Bluepad32, which 
+depends on BlueKitchen Bluetooth stack which has a comercial license,
+but is free for open source projects. More info about BlueKitchen here:
+http://bluekitchen-gmbh.com/
+
 This is free and unencumbered software released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
